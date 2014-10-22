@@ -9,8 +9,10 @@
 
 ##General Description
 
-This repo contains my solutions to the first 11 questions of 
-[Project Euler](https://projecteuler.net/problems).
+This repo contains my solutions to the first 10 questions of 
+[Project Euler](https://projecteuler.net/problems) 
+written as parctice in Ruby following the course at 
+[Makers Academy](http://www.makersacademy.com/).
 
 The solutions are written in [Ruby](https://www.ruby-lang.org/en/) 
 according to [TDD](http://en.wikipedia.org/wiki/Test-driven_development) 
